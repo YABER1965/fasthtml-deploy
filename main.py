@@ -10,13 +10,7 @@ page = Html(
                 Title('LPテンプレート'),
                 Meta(name='keywords', content=''),
                 Meta(name='description', content=''),
-                Link(rel='icon', type='image/png', href='img/favicon.png'),
-                Link(rel='stylesheet', media='all', href='css/ress.min.css')(
-                    Link(rel='stylesheet', media='all', href='css/style.css'),
-                    Script(src='js/jquery-3.6.0.min.js'),
-                    Script(src='js/style.js'),
-                    Link(rel='icon', type='image/png', href='img/favicon.png')
-                )
+                Link(rel='icon', type='image/png', href='img/favicon.png')
             ),
             Body(
                 Header(
