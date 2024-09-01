@@ -18,42 +18,7 @@ page = Html(
                         Div(cls='row')(
                             Div(cls='col span-12 header')(
                                 H1(
-                                    A('LOGO', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
-                                ),
-                                Div(cls='header-box')(
-                                    A(href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')(
-                                        Span('お問い合わせ', cls='contact-button')
-                                    )
-                                )
-                            )
-                        ),
-                        Div(cls='row')(
-                            Div(cls='col span-12')(
-                                Nav(
-                                    Div(id='open'),
-                                    Div(id='close'),
-                                    Div(id='navi')(
-                                        Ul(
-                                            Li(
-                                                A('ホーム', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
-                                            ),
-                                            Li(
-                                                A('商品について', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
-                                            ),
-                                            Li(
-                                                A('お客様の声', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
-                                            ),
-                                            Li(
-                                                A('申し込みの流れ', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
-                                            ),
-                                            Li(
-                                                A('アクセス', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
-                                            ),
-                                            Li(
-                                                A('お問い合わせ', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
-                                            )
-                                        )
-                                    )
+                                    A('LOGO')
                                 )
                             )
                         )
@@ -252,12 +217,6 @@ page = Html(
                             )
                         )
                     )
-                ),
-                Div(cls='copyright')(
-                    A('Copyright © QEU.Inc.', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html', target='_blank')
-                ),
-                P(id='pagetop')(
-                    A('TOP', href='#')
                 )
             )
         )
