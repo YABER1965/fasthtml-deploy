@@ -18,7 +18,7 @@ page = Html(
                         Div(cls='row')(
                             Div(cls='col span-12 header')(
                                 H1(
-                                    A('LOGO', href='')
+                                    A('LOGO', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
                                 ),
                                 Div(cls='header-box')(
                                     A(href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')(
