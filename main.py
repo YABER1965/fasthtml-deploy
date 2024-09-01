@@ -1,9 +1,6 @@
 # ---
 from fasthtml.common import *
-import uvicorn
-
-app = FastHTML()
-rt = app.route
+#import uvicorn
 
 # ---
 page = Html(
@@ -271,10 +268,13 @@ page = Html(
             )
         )
 
-# ----
-@rt("/")
-def get():
-    return page
+# ---
+#print(to_xml(page))
+
+# ---
+app,rt = fast_app()
+
+@rt('/')
+def get(): return page
   
-if __name__ == '__main__':
-    uvicorn.run(app, host='0.0.0.0', port=int(os.getenv("PORT", default=8000)))
+serve()
