@@ -14,11 +14,9 @@ page = Html(
             ),
             Body(
                 Header(
-                    Div(cls='container')(
-                        Div(cls='row')(
-                            H1(
-                                A('LOGO')
-                            )
+                    Div(cls='row')(
+                        H1(
+                            A('LOGO')
                         )
                     )
                 ),
