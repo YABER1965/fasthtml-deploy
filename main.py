@@ -21,7 +21,7 @@ page = Html(
                                     A('LOGO', href='')
                                 ),
                                 Div(cls='header-box')(
-                                    A(href='')(
+                                    A(href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')(
                                         Span('お問い合わせ', cls='contact-button')
                                     )
                                 )
@@ -35,22 +35,22 @@ page = Html(
                                     Div(id='navi')(
                                         Ul(
                                             Li(
-                                                A('ホーム', href='index.html')
+                                                A('ホーム', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
                                             ),
                                             Li(
-                                                A('商品について', href='#1')
+                                                A('商品について', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
                                             ),
                                             Li(
-                                                A('お客様の声', href='#2')
+                                                A('お客様の声', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
                                             ),
                                             Li(
-                                                A('申し込みの流れ', href='#3')
+                                                A('申し込みの流れ', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
                                             ),
                                             Li(
-                                                A('アクセス', href='#4')
+                                                A('アクセス', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
                                             ),
                                             Li(
-                                                A('お問い合わせ', href='#5')
+                                                A('お問い合わせ', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html')
                                             )
                                         )
                                     )
@@ -254,7 +254,7 @@ page = Html(
                     )
                 ),
                 Div(cls='copyright')(
-                    A('Copyright © popodesign.', href='https://popo-design.net', target='_blank')
+                    A('Copyright © QEU.Inc.', href='https://jpnqeur23bonsai2.blogspot.com/2024/08/qeur23chrltm47-step3-task3-of-4-fbafbq.html', target='_blank')
                 ),
                 P(id='pagetop')(
                     A('TOP', href='#')
