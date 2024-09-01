@@ -16,10 +16,8 @@ page = Html(
                 Header(
                     Div(cls='container')(
                         Div(cls='row')(
-                            Div(cls='col span-12 header')(
-                                H1(
-                                    A('LOGO')
-                                )
+                            H1(
+                                A('LOGO')
                             )
                         )
                     )
@@ -65,20 +63,18 @@ page = Html(
                     )
                 ),
                 Footer(
-                    Div(cls='container')(
-                        Div(cls='row')(
-                            Div(cls='col span-4')(
-                                H4('フッター1'),
-                                P('ここにSNSやテキストなどが入ります。SNSやテキストなどが入ります。')
-                            ),
-                            Div(cls='col span-4')(
-                                H4('フッター2'),
-                                P('ここにSNSやテキストなどが入ります。SNSやテキストなどが入ります。')
-                            ),
-                            Div(cls='col span-4')(
-                                H4('フッター3'),
-                                P('ここにSNSやテキストなどが入ります。SNSやテキストなどが入ります。')
-                            )
+                    Div(cls='row')(
+                        Div(cls='col span-4')(
+                            H4('フッター1'),
+                            P('ここにSNSやテキストなどが入ります。SNSやテキストなどが入ります。')
+                        ),
+                        Div(cls='col span-4')(
+                            H4('フッター2'),
+                            P('ここにSNSやテキストなどが入ります。SNSやテキストなどが入ります。')
+                        ),
+                        Div(cls='col span-4')(
+                            H4('フッター3'),
+                            P('ここにSNSやテキストなどが入ります。SNSやテキストなどが入ります。')
                         )
                     )
                 )
